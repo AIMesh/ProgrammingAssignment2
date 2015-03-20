@@ -15,4 +15,4 @@ cacheSolve <- function(x, ...) {
 }
 
 
-## TEST 
+## TESTING
